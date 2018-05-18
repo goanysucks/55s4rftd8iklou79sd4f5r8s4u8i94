@@ -1,0 +1,46 @@
+ArmoryCrazy:
+
+Valk
+
+Reinforce back foutain
+Cam AC
+Cam Armory
+Cam Hallway
+
+
+***ArmoryDefault:
+
+Echo
+
+Reinforce arc
+Barb Arc
+Echo drone metal/break
+Watch long angle towards breakroom
+
+
+_____________________________________________________________________________
+
+
+*****VentsDefault:
+
+Castle
+
+Rotate bathroom
+Castle bathroom door
+Castle hall double
+Castle B site door
+Reinforce Hatches
+Play in **SITE**
+
+
+
+VentsCrazy:
+
+Castle
+
+Rotate bathroom
+Castle bathroom door
+Castle hall double
+Reinforce Arcv
+Castle metal
+Play **Upstairs**

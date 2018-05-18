@@ -1,0 +1,37 @@
+Upstairs:
+
+Valk
+
+Reinforce Vending
+Reinforce Connector door
+Valk long hall
+Valk Front
+Valk Back
+
+
+-----------------------------------------------------
+
+
+Lobby1:
+
+Echo
+
+Reinforce in bathroom
+Barb lobby front and back
+Play CEO
+
+
+-----------------------------------------------------
+
+
+Garage1:
+
+Echo
+
+Reinforce mid office wall
+Barb Yellow stairs
+Barb Piano door
+Play mira window and Acoq angles
+
+
+
